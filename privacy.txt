@@ -1,0 +1,11 @@
+AmazRun
+
+This app records your HR and location data and store it on the local private or public storage.
+The permission to <b>access location</b> is used to calculate the distance, burned calories, and draw the route in map
+The permission to <b>background location</b> is used for the same explaned above, but in this time in background while you use your device for anything more.
+The permission to use the public storage is given by the user and can be removed anytime later.
+The app private storage will be cleared when the app is uninstalled.
+The recording will be controlled by the user, there will be no recorded data without user action.
+Inside the app you need to enter your personal data like weight, height, gender and age to calculate the calories burned.
+This setting can be overwritten anytime and will be cleared when the app is uninstalled.
+The app has the further capability to upload this data to Google Fit and/or Strava, were the user must be log in before.
